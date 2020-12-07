@@ -1,0 +1,34 @@
+{
+  "name": "ticket-bot",
+  "version": "1.0.0",
+  "description": "A simple ticket bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "zhon12345",
+  "license": "ISC",
+  "dependencies": {
+    "better": "^0.1.0",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^12.4.1",
+    "discordnitro": "^0.1.348",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.1",
+    "os": "^0.1.1",
+    "random-string-simple": "^1.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhon12345/Ticket-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zhon12345/Ticket-Bot/issues"
+  },
+  "homepage": "https://github.com/zhon12345/Ticket-Bot#readme"
+}
